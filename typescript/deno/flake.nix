@@ -1,5 +1,5 @@
 {
-  description = "Flake for a Deno development environment"
+  description = "Flake for a Deno development environment";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";

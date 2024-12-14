@@ -1,5 +1,5 @@
 {
-  description = "Flake for a Node.js development environment"
+  description = "Flake for a Node.js development environment";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs?ref=nixos-unstable";
@@ -16,6 +16,7 @@
         {
           buildInputs = with pkgs; [
             nodejs
+            typescript
           ];
         };
   };

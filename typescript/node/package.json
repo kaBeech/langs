@@ -1,0 +1,11 @@
+{
+  "name": "node",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Kyle Beechly",
+  "license": "MIT",
+  "description": ""
+}
